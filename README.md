@@ -1,17 +1,17 @@
-# Create Social Network
+# Create Social Network Fullstack MERN
 
 ### Skills train :
 
 FRONT END
--React
--Redux
+- React
+- Redux
 
 BACK END
--MongoDB
--Express
--Node
+- MongoDB
+- Express
+- Node
 
 FEATURES
--Jwt
--Authentication
--CORS
+- Jwt
+- Authentication
+- CORS
