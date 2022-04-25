@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-social-network/static/css/main.e5fb0678.chunk.css",
+    "main.js": "/my-social-network/static/js/main.6b973324.chunk.js",
+    "main.js.map": "/my-social-network/static/js/main.6b973324.chunk.js.map",
+    "runtime-main.js": "/my-social-network/static/js/runtime-main.f648082d.js",
+    "runtime-main.js.map": "/my-social-network/static/js/runtime-main.f648082d.js.map",
+    "static/css/2.23154d62.chunk.css": "/my-social-network/static/css/2.23154d62.chunk.css",
+    "static/js/2.93d448f6.chunk.js": "/my-social-network/static/js/2.93d448f6.chunk.js",
+    "static/js/2.93d448f6.chunk.js.map": "/my-social-network/static/js/2.93d448f6.chunk.js.map",
+    "index.html": "/my-social-network/index.html",
+    "static/css/2.23154d62.chunk.css.map": "/my-social-network/static/css/2.23154d62.chunk.css.map",
+    "static/css/main.e5fb0678.chunk.css.map": "/my-social-network/static/css/main.e5fb0678.chunk.css.map",
+    "static/js/2.93d448f6.chunk.js.LICENSE.txt": "/my-social-network/static/js/2.93d448f6.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/my-social-network/static/media/JosefinSans-Regular.c2462bfe.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f648082d.js",
+    "static/css/2.23154d62.chunk.css",
+    "static/js/2.93d448f6.chunk.js",
+    "static/css/main.e5fb0678.chunk.css",
+    "static/js/main.6b973324.chunk.js"
+  ]
+}
